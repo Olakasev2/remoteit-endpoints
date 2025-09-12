@@ -1,1 +1,1 @@
-proxy021.r3proxy.com:32347
+proxy020.r3proxy.com:31097
