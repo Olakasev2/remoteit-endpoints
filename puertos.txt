@@ -1,1 +1,1 @@
-proxy110.r3proxy.com:33489
+proxy110.r3proxy.com:33490
